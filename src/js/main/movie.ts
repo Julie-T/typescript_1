@@ -6,3 +6,4 @@ export default interface IMovie {
     genre: string
     time: string
 }
+df
